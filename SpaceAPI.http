@@ -1,0 +1,6 @@
+@SpaceAPI_HostAddress = http://localhost:5043
+
+GET {{SpaceAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
